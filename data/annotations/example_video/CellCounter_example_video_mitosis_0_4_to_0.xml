@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CellCounter_Marker_File>
  <Image_Properties>
-     <Image_Filename>example_video_mitosis_0_0_to_4.tiff</Image_Filename>
+     <Image_Filename>example_video_mitosis_0_4_to_0.tiff</Image_Filename>
      <X_Calibration>1.0</X_Calibration>
      <Z_Calibration>1.0</Z_Calibration>
      <Calibration_Unit>pixel</Calibration_Unit>
